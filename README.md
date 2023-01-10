@@ -1,1 +1,1 @@
-# gcp_docker_example
+# Google Cloud Platform docker example
